@@ -1,0 +1,2 @@
+/public/home/lchen/software/ncbi-blast-2.8.1+/bin/blastp -query /public/home/lchen/130/maize/lchen/v4_gff/B73.max.pep.fa -out maize_rice.blast -db ../IRGSP -evalue 1e-10 -num_alignments 5 -outfmt 6 -num_threads 20
+~/130/lchen/software/MCScanX/MCScanX ./maize_rice
