@@ -1,3 +1,4 @@
+python ~/software/anaconda2/bin/CrossMap.py bed AGPv2_to_AGPv4.chain.gz TEO_B73_linkagemap.v2 TEO_B73_linkagemap.v4
 /public/home/lchen/software/vcftools-0.1.16/bin/vcftools --gzvcf /public/home/lchen/zeamap/01.data/final_vcf/merge_${chr}_filter.vcf.gz --keep ./par --out ./merge_$chr.par --recode --recode-INFO-all ## $chr=1,2,3...10
 perl plink2haploview.pl $chr.par
 perl map2info.pl $chr.par
