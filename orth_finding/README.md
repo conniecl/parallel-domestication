@@ -1,4 +1,4 @@
-### Main steps for identification orthologous genes in maize and rice
+# Main steps for identification orthologous genes in maize and rice
 ```
 perl max_pep_rice.pl
 perl max_pep_maize.pl
