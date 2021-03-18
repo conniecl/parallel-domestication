@@ -1,6 +1,5 @@
 # Selective sweeps calculated in that study
-## change chr1 to chr2,3,4...12
-## change indica to japonica, sativa
+## change chr1 to chr2,3,4...12; change indica to japonica, sativa
 ```bash
 /public/home/lchen/software/anaconda2/bin/python /public/home/lchen/software/anaconda2/bin/CrossMap.py bed MSU6_to_IRGSP-1.0.chain.gz genetic_map.s.bed genetic_map.irgsp1.s
 /public/home/lchen/software/anaconda2/bin/python /public/home/lchen/software/anaconda2/bin/CrossMap.py bed MSU6_to_IRGSP-1.0.chain.gz genetic_map.e.bed genetic_map.irgsp1.e
