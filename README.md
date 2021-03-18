@@ -1,2 +1,2 @@
-# parallel-domestication
-All code and custom scripts for parallel domestication genes analysis.
+# parallel selection
+Code and custom scripts for parallel selection genes analysis.
